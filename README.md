@@ -51,6 +51,7 @@ Criar interface gráfica (HTML + CSS)
 Armazenar histórico de jogadores
 Permitir múltiplos heróis
 Melhorar a experiência do usuário (UX)
+
 👨‍💻 Autor
 
 Desenvolvido por Nicolas como parte da evolução nos estudos de programação.
