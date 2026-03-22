@@ -1,20 +1,18 @@
-# 🦸‍♂️ Classificador de Nível de Herói
+🦸‍♂️ Classificador de Nível de Herói
 
-Projeto desenvolvido como desafio de lógica de programação, com o objetivo de classificar o nível de um herói com base na sua quantidade de XP.
+Projeto desenvolvido em JavaScript com foco em lógica de programação, que classifica o nível de um herói com base na quantidade de XP informada pelo usuário.
 
----
+📌 Descrição
 
-## 📌 Descrição
+O sistema solicita o nome do jogador, o nome do herói e a quantidade de XP.
+Após validar o valor informado, o programa classifica automaticamente o herói em um nível específico com base em regras predefinidas.
 
-O sistema solicita:
-
-- Nome do jogador
-- Nome do herói
-- Quantidade de XP
-
-Após validar o valor inserido, o programa classifica o herói em um nível específico conforme a tabela abaixo.
-
----
+⚙️ Funcionalidades
+Entrada de dados do jogador e do herói
+Validação da quantidade de XP
+Tratamento de valores inválidos
+Classificação automática de nível
+Exibição do resultado final
 
 ## 🧠 Regras de Classificação
 
@@ -31,24 +29,30 @@ Após validar o valor inserido, o programa classifica o herói em um nível espe
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+🚀 Tecnologias utilizadas
+JavaScript
+Lógica de programação
+🧠 Conceitos aplicados
+Estruturas condicionais (if / else)
+Estruturas de repetição (while)
+Validação de dados
+Entrada de dados via prompt
+Controle de fluxo
+▶️ Como executar
+Abra o projeto no navegador ou ambiente compatível com JavaScript
+Execute o script
+Insira os dados solicitados
+🎯 Objetivo do projeto
 
-- JavaScript
-- Lógica de Programação
-- Estruturas Condicionais
-- Laços de Repetição
-- Git & GitHub
+Praticar lógica de programação e estruturas fundamentais do JavaScript, simulando um sistema simples de classificação baseado em regras.
 
----
+📈 Melhorias futuras
+Criar interface gráfica (HTML + CSS)
+Armazenar histórico de jogadores
+Permitir múltiplos heróis
+Melhorar a experiência do usuário (UX)
+👨‍💻 Autor
 
-## ⚙️ Funcionalidades
+Desenvolvido por Nicolas como parte da evolução nos estudos de programação.
 
-✔️ Entrada de dados via prompt  
-✔️ Validação de XP com laço `do while`  
-✔️ Tratamento de valores inválidos  
-✔️ Classificação automática de nível  
-✔️ Exibição do resultado final  
-
----
-
-## 📂
+⭐ Projeto desenvolvido para fins de estudo e aprimoramento contínuo.
